@@ -5,6 +5,10 @@ Created on Apr 19, 2016
 
 @author: paulross
 """
+
+import sys
+print(sys.version)
+
 import ScList
 
 def test():
